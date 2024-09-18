@@ -2,7 +2,7 @@
 
 ## Description
 
-This website was refactored to provide a semantic viewing of the code to future developers' use.
+This website was refactored to provide a semantic viewing of the code to future developers' and to follow accessibility standards to optimize the site for search engines.
 
 ## Installation
 

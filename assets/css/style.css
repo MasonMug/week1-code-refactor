@@ -120,18 +120,21 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
 }
 
 .search-engine-optimization {
@@ -193,6 +196,7 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    margin: auto;
 }
 
 .footer h2 {
